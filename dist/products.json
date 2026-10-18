@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Choco Chip Cookies",
+    "pack": "200g",
+    "category": "biscuits",
+    "image": "assets/products/product-01.webp",
+    "portrait": false
+  },
+  {
+    "name": "Horlicks Cookies",
+    "pack": "200g",
+    "category": "biscuits",
+    "image": "assets/products/product-02.webp",
+    "portrait": false
+  },
+  {
+    "name": "Lemon Biscuits",
+    "pack": "130g",
+    "category": "biscuits",
+    "image": "assets/products/product-03.webp",
+    "portrait": false
+  },
+  {
+    "name": "Marie Time Biscuits",
+    "pack": "160g",
+    "category": "biscuits",
+    "image": "assets/products/product-04.webp",
+    "portrait": false
+  },
+  {
+    "name": "Nut Biscuits",
+    "pack": "200g",
+    "category": "biscuits",
+    "image": "assets/products/product-05.webp",
+    "portrait": false
+  },
+  {
+    "name": "Cookie Bite",
+    "pack": "7.5g pouch",
+    "category": "cookie-bite",
+    "image": "assets/products/product-06.webp",
+    "portrait": true
+  },
+  {
+    "name": "Cookie Bite",
+    "pack": "15g pouch",
+    "category": "cookie-bite",
+    "image": "assets/products/product-07.webp",
+    "portrait": true
+  },
+  {
+    "name": "Cookie Bite",
+    "pack": "75g carton",
+    "category": "cookie-bite",
+    "image": "assets/products/product-08.webp",
+    "portrait": false
+  },
+  {
+    "name": "Cookie Ball",
+    "pack": "5g pouch",
+    "category": "cookie-ball",
+    "image": "assets/products/product-09.webp",
+    "portrait": false
+  },
+  {
+    "name": "Cookie Ball",
+    "pack": "10g pouch",
+    "category": "cookie-ball",
+    "image": "assets/products/product-10.webp",
+    "portrait": false
+  },
+  {
+    "name": "Cookie Ball",
+    "pack": "60g carton",
+    "category": "cookie-ball",
+    "image": "assets/products/product-11.webp",
+    "portrait": false
+  },
+  {
+    "name": "Mango Soft Drink Powder",
+    "pack": "15g sachet",
+    "category": "drink-powder",
+    "image": "assets/products/product-12.webp",
+    "portrait": false
+  },
+  {
+    "name": "Mango Soft Drink Powder",
+    "pack": "250g box",
+    "category": "drink-powder",
+    "image": "assets/products/product-13.webp",
+    "portrait": false
+  },
+  {
+    "name": "Mango Soft Drink Powder",
+    "pack": "500g jar",
+    "category": "drink-powder",
+    "image": "assets/products/product-14.webp",
+    "portrait": false
+  },
+  {
+    "name": "Mango Soft Drink Powder",
+    "pack": "1kg jar",
+    "category": "drink-powder",
+    "image": "assets/products/product-15.webp",
+    "portrait": false
+  },
+  {
+    "name": "Orange Soft Drink Powder",
+    "pack": "15g sachet",
+    "category": "drink-powder",
+    "image": "assets/products/product-16.webp",
+    "portrait": false
+  },
+  {
+    "name": "Orange Soft Drink Powder",
+    "pack": "250g box",
+    "category": "drink-powder",
+    "image": "assets/products/product-17.webp",
+    "portrait": false
+  },
+  {
+    "name": "Orange Soft Drink Powder",
+    "pack": "500g jar",
+    "category": "drink-powder",
+    "image": "assets/products/product-18.webp",
+    "portrait": false
+  },
+  {
+    "name": "Orange Soft Drink Powder",
+    "pack": "1kg jar",
+    "category": "drink-powder",
+    "image": "assets/products/product-19.webp",
+    "portrait": false
+  },
+  {
+    "name": "Tasty Saline Lemon",
+    "pack": "9g sachet",
+    "category": "tasty-saline",
+    "image": "assets/products/product-20.webp",
+    "portrait": true
+  },
+  {
+    "name": "Tasty Saline Orange",
+    "pack": "9g sachet",
+    "category": "tasty-saline",
+    "image": "assets/products/product-21.webp",
+    "portrait": true
+  }
+]

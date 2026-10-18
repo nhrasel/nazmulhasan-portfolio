@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Tiffin+ Chocolate",
+    "pack": "Confectionery · Jar & individual packs",
+    "category": "tiffin",
+    "image": "assets/products/care-1.webp",
+    "company": "Care Nutrition",
+    "portrait": false
+  },
+  {
+    "name": "Tiffin+ Combo Pack",
+    "pack": "Confectionery · Jar & individual packs",
+    "category": "tiffin",
+    "image": "assets/products/care-2.webp",
+    "company": "Care Nutrition",
+    "portrait": false
+  },
+  {
+    "name": "Tiffin+ Malai",
+    "pack": "Confectionery · Jar & individual packs",
+    "category": "tiffin",
+    "image": "assets/products/care-3.webp",
+    "company": "Care Nutrition",
+    "portrait": false
+  },
+  {
+    "name": "Tiffin+ Choco Orange",
+    "pack": "Confectionery · Jar & individual packs",
+    "category": "tiffin",
+    "image": "assets/products/care-4.webp",
+    "company": "Care Nutrition",
+    "portrait": false
+  },
+  {
+    "name": "Ener-G Lemon",
+    "pack": "Fortified Tasty Saline · Sachet",
+    "category": "ener",
+    "image": "assets/products/care-5.webp",
+    "company": "Care Nutrition",
+    "portrait": false
+  },
+  {
+    "name": "Ener-G Orange",
+    "pack": "Fortified Tasty Saline · Sachet",
+    "category": "ener",
+    "image": "assets/products/care-6.webp",
+    "company": "Care Nutrition",
+    "portrait": false
+  }
+]

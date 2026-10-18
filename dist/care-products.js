@@ -1,0 +1,4 @@
+let careProducts=[];
+function renderCareProducts(category){const filtered=careProducts.filter(p=>category==='all'||p.category===category);mountProductSlider(document.getElementById('care-launch-grid'),filtered,document.getElementById('care-gallery-status'));}
+document.querySelectorAll('[data-care-filter]').forEach(button=>button.addEventListener('click',()=>{document.querySelectorAll('[data-care-filter]').forEach(b=>{b.classList.toggle('active',b===button);b.setAttribute('aria-pressed',String(b===button))});renderCareProducts(button.dataset.careFilter)}));
+fetch('care-products.json').then(r=>{if(!r.ok)throw Error('Unavailable');return r.json()}).then(data=>{careProducts=data;renderCareProducts('all')}).catch(()=>{document.getElementById('care-gallery-status').textContent='Product gallery could not load. Please refresh the page.'});
